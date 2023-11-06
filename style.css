@@ -1,0 +1,62 @@
+/*  estilo à nossa classe heading */
+.heading
+{
+font-size:23px;  
+ width: 100%;
+ margin: 0px;
+}
+ /* estilo à nossa classe not */
+.note
+{
+  font-size: 15px;
+color: black;
+}
+/* Redimensiona a imagem de fundo para cobrir toda a página da web, */
+body
+{
+background-size: cover;
+}
+/* estilo à classe “div_speed” */
+  .div_speed
+  {
+  	float: left;
+  }
+  /* estilo à classe div usando sua classe “div_speed_img” */
+  .div_speed_img
+  {
+  	width: 200px;
+border-radius: 100px;
+  }
+  /* estilo à tag de título usando seu id “speed” */
+  #speed
+  {
+  font-size: 23px;
+  margin: 15px
+  }
+  /* estilo à classe “volume” */
+  .div_volume
+  {
+  float: right;
+  }
+  /* estilo à classe “div_volume_img” */
+  .div_volume_img
+  {
+  	width: 200px;
+  border-radius: 100px;
+  }
+  /* estilo à tag de título usando seu id “volume” */
+  #volume
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+   .play_button
+  {
+  width: 150px;
+  	font-size: 25px;
+  }
+    canvas 
+  {
+   border:5px solid white;
+    border-radius: 20px;
+  }
